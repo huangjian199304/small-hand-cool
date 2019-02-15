@@ -1,0 +1,32 @@
+{
+  "name": "small-hand-cool",
+  "version": "1.0.3",
+  "description": "test npm run/build/test",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "src/*.js",
+    "src/*.d.ts",
+    "src/**/*.js",
+    "src/**/*.d.ts",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangjian199304/small-hand-cool.git"
+  },
+  "keywords": [],
+  "author": "twinkleJ <406310694@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huangjian199304/small-hand-cool/issues"
+  },
+  "homepage": "https://github.com/huangjian199304/small-hand-cool#readme"
+}
